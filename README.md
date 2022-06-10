@@ -1,7 +1,7 @@
-<h1>Resoluação do exercício advinhe o número plataforma Alura<\h1>
+# Resolução de exercício Alura #
 
 
-> Status: Resolvido. 
+> Status: Desenvolvimento
 
   
  
